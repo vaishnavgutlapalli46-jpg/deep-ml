@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:21:27.815Z",
+  "generated_at": "2026-10-03T15:21:29.571Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -39,6 +39,71 @@
       "last_pushed_at": "2026-10-01T13:09:54.068Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-10-02T13:26:16.415Z",
+      "last_pushed_at": "2026-10-02T13:26:16.415Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:119": {
+      "kind": "problem",
+      "id": "119",
+      "title": "Solve System of Linear Equations Using Cramer's Rule",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/119",
+      "path": "problems/0119-solve-system-of-linear-equations-using-cramer-s-rule",
+      "first_solved_at": "2026-10-02T14:28:53.437Z",
+      "last_pushed_at": "2026-10-02T14:28:53.437Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-10-02T14:38:01.039Z",
+      "last_pushed_at": "2026-10-02T14:38:01.039Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-02T18:26:54.080Z",
+      "last_pushed_at": "2026-10-02T18:26:54.080Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-10-02T18:43:17.591Z",
+      "last_pushed_at": "2026-10-02T18:43:17.591Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }

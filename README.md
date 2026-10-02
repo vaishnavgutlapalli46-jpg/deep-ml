@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 3 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,9 +12,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-10-02 | [solution](problems/0070-calculate-image-brightness) |
+| [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-02 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-29 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-02 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-01 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-02 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-01 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-10-02 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 
 ---
 
