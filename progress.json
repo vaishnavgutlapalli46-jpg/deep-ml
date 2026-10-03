@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:21:29.571Z",
+  "generated_at": "2026-10-03T15:21:31.443Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -104,6 +104,32 @@
       "last_pushed_at": "2026-10-02T18:43:17.591Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-03T14:27:09.607Z",
+      "last_pushed_at": "2026-10-03T14:27:09.607Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-10-03T14:33:03.675Z",
+      "last_pushed_at": "2026-10-03T14:33:03.675Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
